@@ -1,3 +1,0 @@
-stages:
-- name: "quality-gate"
-  test_strategy: "performance"
